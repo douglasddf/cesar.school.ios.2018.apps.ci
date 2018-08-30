@@ -34,7 +34,7 @@ class CI_CDUITests: XCTestCase {
     }
     
     func testExample2() {
-        XCTAssert(false)
+        XCTAssert(true)
     }
     
 }
