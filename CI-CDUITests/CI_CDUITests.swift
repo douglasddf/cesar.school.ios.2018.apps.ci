@@ -33,4 +33,8 @@ class CI_CDUITests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
+    func testExample2() {
+        XCTAssert(false)
+    }
+    
 }
